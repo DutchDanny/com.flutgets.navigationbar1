@@ -2,7 +2,7 @@ import 'dart:io';
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:navigationbar1/theme/ColorSchemes.dart';
+import 'theme/ColorSchemes.dart';
 import 'app.dart';
 
 void main() {

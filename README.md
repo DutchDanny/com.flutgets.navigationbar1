@@ -8,9 +8,11 @@ I added Material3 Theming and 3 default pages to have a nice start.
 - Flutter Version: 3.10.0
 - Dart Version: 3.0.0
 - Gradle: 8.0.1
-- App Version: 1.0.0
+- Widget Version: 1.0.0
 - Released: May 20 2023
 - Updated: 
+
+View the online demo here: [WEBVIEW DEMO](https://demo.flutgets.com/navigationbar1)
 
 # Licensing
 Licensed under the Apache License, Version 2.0 (the "License");
