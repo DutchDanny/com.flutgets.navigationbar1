@@ -2,6 +2,8 @@
 
 A Free Flutter project from [FlutGets.com](https://flutgets.com)
 
+This is just a basic NavBar to start working with a new Flutter project.
+I added Material3 Theming and 3 default pages to have a nice start.
 
 # Licensing
 Licensed under the Apache License, Version 2.0 (the "License");
