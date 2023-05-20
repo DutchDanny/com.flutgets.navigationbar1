@@ -19,10 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 # Images
-- [Screenshot](https://raw.githubusercontent.com/DutchDanny/com.flutgets.navigationbar1/master/screens/flutgets_navigationbar1.jpg)
-- [File Structure](https://raw.githubusercontent.com/DutchDanny/com.flutgets.navigationbar1/master/screens/flutgets_file_structure_android_studio_navigationbar1.jpg)
-
-
+<img src="screens/flutgets_navigationbar1.jpg"/>
+<img src="screens/flutgets_file_structure_android_studio_navigationbar1.jpg"/>
 
 
 # Support
