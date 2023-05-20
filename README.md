@@ -5,9 +5,12 @@ A Free Flutter project from [FlutGets.com](https://flutgets.com)
 This is just a basic NavBar to start working with a new Flutter project.
 I added Material3 Theming and 3 default pages to have a nice start.
 
-- Flutter 3.10.0
-- Dart 3.0.0
-- Gradle 8.0.1
+- Flutter Version: 3.10.0
+- Dart Version: 3.0.0
+- Gradle: 8.0.1
+- App Version: 1.0.0
+- Released: May 20 2023
+- Updated: 
 
 # Licensing
 Licensed under the Apache License, Version 2.0 (the "License");
