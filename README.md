@@ -26,7 +26,9 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 # Images
+Screenshot
 <img src="screens/flutgets_navigationbar1.jpg"/>
+File Structure
 <img src="screens/flutgets_file_structure_android_studio_navigationbar1.jpg"/>
 
 
