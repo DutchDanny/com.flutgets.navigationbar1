@@ -17,9 +17,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 # Images
-https://raw.githubusercontent.com/DutchDanny/com.flutgets.navigationbar1/master/screens/flutgets_navigationbar1.jpg
+- [Screenshot](https://raw.githubusercontent.com/DutchDanny/com.flutgets.navigationbar1/master/screens/flutgets_navigationbar1.jpg)
+- [File Structure](https://raw.githubusercontent.com/DutchDanny/com.flutgets.navigationbar1/master/screens/flutgets_file_structure_android_studio_navigationbar1.jpg)
 
-https://raw.githubusercontent.com/DutchDanny/com.flutgets.navigationbar1/master/screens/flutgets_file_structure_android_studio_navigationbar1.jpg
+
+
 
 # Support
 This package comes as is, it's all Flutter / Dart code, you can use Google to find out more.
